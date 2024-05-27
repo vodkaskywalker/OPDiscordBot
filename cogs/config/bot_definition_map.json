@@ -102,5 +102,7 @@
 	"def_hydra_bot" : "Hydra",
 	"def_hydra_bot_pr" : "Hydra prototype",
 	"def_onyx_bot" : "Onyx",
-	"def_onyx_bot_pr" : "Onyx prototype"
+	"def_onyx_bot_pr" : "Onyx prototype",
+	"def_spectator_bot" : "Spectator",
+	"def_spectator_bot_pr" : "Spectator prototype"
 }
