@@ -104,5 +104,10 @@
 	"def_onyx_bot" : "Onyx",
 	"def_onyx_bot_pr" : "Onyx prototype",
 	"def_spectator_bot" : "Spectator",
-	"def_spectator_bot_pr" : "Spectator prototype"
+	"def_spectator_bot_pr" : "Spectator prototype",
+	"def_gropho_reward1_bot" : "Praetorian Gropho",
+	"def_seth_reward1_bot" : "Mercenary Seth",
+	"def_mesmer_reward1_bot" : "Vanguard Mesmer",
+	"def_terramotus_bot_pr" : "Terramotus prototype",
+	"def_terramotus_bot" : "Terramotus"
 }
