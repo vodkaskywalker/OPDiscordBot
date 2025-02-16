@@ -108,6 +108,10 @@
 	"def_gropho_reward1_bot" : "Praetorian Gropho",
 	"def_seth_reward1_bot" : "Mercenary Seth",
 	"def_mesmer_reward1_bot" : "Vanguard Mesmer",
+	"def_terramotus_bot" : "Terramotus",
 	"def_terramotus_bot_pr" : "Terramotus prototype",
-	"def_terramotus_bot" : "Terramotus"
+	"def_beholder_bot": "Beholder",
+	"def_beholder_bot_pr": "Beholder prototype",
+	"def_ares_bot": "Ares",
+	"def_ares_bot_pr": "Ares prototype"
 }
